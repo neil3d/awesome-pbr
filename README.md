@@ -44,3 +44,4 @@
 - [SIGGRAPH 2017 Course: Physically Based Shading in Theory and Practice](https://blog.selfshadow.com/publications/s2017-shading-course/)
 - [SIGGRAPH 2020 Course: Physically Based Shading in Theory and Practice](https://blog.selfshadow.com/publications/s2020-shading-course/)
 - [SIGGRAPH 2020 Course: Advances in Monte Carlo Rendering](https://sites.google.com/view/legacyofjaroslav)
+- [YouTube: SIGGRAPH University](https://www.youtube.com/playlist?list=PLUPhVMQuDB_aWSKj7L_-3Ot_nxBze_YMy)
