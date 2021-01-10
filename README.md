@@ -21,6 +21,12 @@
 - 1995, *Principles of Digital Image Synthesis*, Andrew S. Glassner
 - 1989, *Illumination and Color in Computer Generated Imagery*,  Roy Hall
 
+## Events
+
+- January 2017: Marcos Fajardo(the chief architect of Arnold Renderer), scientific and Engineering award , the Academy of Motion Picture Arts and Sciences
+- January 2014: Matt Pharr, Greg Humphreys, and Pat Hanrahan were awarded a [Scientific and Technical Academy Award](https://www.oscars.org/news/19-scientific-and-technical-achievements-be-honored-academy-awardsr) for Physically Based Rendering:   
+> Physically based rendering has transformed computer graphics lighting by more accurately simulating materials and lights, allowing digital artists to focus on cinematography rather than the intricacies of rendering. First published in 2004, Physically Based Rendering is both a textbook and a complete source-code implementation that has provided a widely adopted practical roadmap for most physically based shading and lighting systems used in film production.
+
 ## A Brief History of Physically Based Rendering
 
 > [The PBR Book, Chapter 1: Introduction](http://www.pbr-book.org/3ed-2018/Introduction/A_Brief_History_of_Physically_Based_Rendering.html)
@@ -56,3 +62,14 @@
 
 ![production timeline](./docs/images/production.png)
 
+- [Arnold Renderer](https://www.arnoldrenderer.com/about/)
+    - SIGGRAPH 2001, Marcos Fajardo showed images of Arnold render erearly version
+    - 2004, Sony Pictures Imageworks licensed the source code to Arnold
+    - 2016, acquired by Autodesk, [official announcement](https://www.autodesk.com/campaigns/solid-angle-joins-autodesk)
+- [Pixar's RenderMan](https://renderman.pixar.com/)    
+    - 2015, rewritten as a path tracer. 
+
+### Real-time renderer
+
+- [Unreal Engine 4](https://www.unrealengine.com/)
+- [Blender Eevee](https://wiki.blender.org/wiki/Reference/Release_Notes/2.80/EEVEE)
