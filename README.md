@@ -13,9 +13,17 @@
 - [SIGGRAPH 2020 Course: Advances in Monte Carlo Rendering](https://sites.google.com/view/legacyofjaroslav)
 - [YouTube: SIGGRAPH University](https://www.youtube.com/playlist?list=PLUPhVMQuDB_aWSKj7L_-3Ot_nxBze_YMy)
 
+## Books
+
+- 2018, *Physically Based Rendering:From Theory To Implementation [3rd ed.]*, [**online edition**](http://www.pbr-book.org/), Matt Pharr, Wenzel Jakob, and Greg Humphreys
+- 2010, *Physically Based Rendering. From Theory to Implementation [2nd ed.]*, Matt Pharr Greg Humphreys
+- 2004, *Physically Based Rendering. From Theory to Implementation [1st ed.]*, Matt Pharr Greg Humphreys
+- 1995, *Principles of Digital Image Synthesis*, Andrew S. Glassner
+- 1989, *Illumination and Color in Computer Generated Imagery*,  Roy Hall
+
 ## A Brief History of Physically Based Rendering
 
-> [PBR Book, Chapter 1: Introduction](http://www.pbr-book.org/3ed-2018/Introduction/A_Brief_History_of_Physically_Based_Rendering.html)
+> [The PBR Book, Chapter 1: Introduction](http://www.pbr-book.org/3ed-2018/Introduction/A_Brief_History_of_Physically_Based_Rendering.html)
 
 ### Research
 
